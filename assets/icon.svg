@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#06B6D4"/>
+    </linearGradient>
+    <style>
+      .s1 { fill: url(#g); }
+      .s2 { fill: #fff; font-family: Inter, Roboto, Arial, sans-serif; font-weight: 700; font-size: 360px; }
+    </style>
+  </defs>
+  <rect width="1024" height="1024" rx="200" class="s1" />
+  <text x="50%" y="54%" text-anchor="middle" class="s2" dy="0">FA</text>
+</svg>
